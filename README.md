@@ -2,13 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-A really long paragraph about myself.
-Here it goes..........................
-......................................
-......................................
-.....................................
-The End!
-
-Here are some details!
+1. index.html
